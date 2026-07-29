@@ -14,85 +14,248 @@
 </p>
 
 ---
-
 # 🌸 About Me
 
 <table>
+
 <tr>
-<td width="65%">
 
-🎓 **B.Tech CSE** — GLA University, Mathura
+<td width="65%" valign="top">
 
-💻 Passionate about **Java, Full Stack Development, DSA and Backend Development**
+## 👨‍💻 Hello, I'm Umang Raj
 
-🚀 **Projects**
-- Smart Inventory & Demand Forecasting System
-- Multi-Vendor E-Commerce Website
+🎓 **Final Year B.Tech Computer Science & Engineering** student at **GLA University, Mathura**.
 
-🌱 **Currently Learning**
-- Spring Boot
-- System Design
-- Advanced Java
+I enjoy building scalable software, solving complex problems using **Data Structures & Algorithms**, and developing modern web applications with **Java** and **Full Stack technologies**.
 
-🎯 **Career Goal**
-Become a Software Engineer building scalable backend systems.
+### 🚀 Current Focus
+
+- ☕ Java Development
+- 🌱 Spring Boot
+- 💻 Full Stack Development
+- 📚 Data Structures & Algorithms
+- ⚡ System Design
+
+---
+
+### 🎯 Career Goal
+
+To become a **Software Engineer** who builds scalable and impactful software while continuously learning modern technologies.
+
+---
+
+### 💡 Quick Facts
+
+- 🔭 Working on **Smart Inventory & Demand Forecasting System**
+- 🌱 Learning **Spring Boot & Backend Development**
+- 👨‍💻 Solving DSA Problems Daily
+- 💬 Ask me about Java, React, ASP.NET, Node.js
+- ⚡ Fun Fact: *I enjoy transforming ideas into real-world software.*
 
 </td>
 
 <td width="35%" align="center">
 
-<img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-Expert-FF69B4?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learner-F8BBD0?style=for-the-badge"/>
 
 </td>
-</tr>
-</table>
 
----
+</tr>
+
+</table>
 
 # 🚀 Featured Projects
 
-## 📦 Smart Inventory & Demand Forecasting System
+<table>
 
-- React
-- C#
-- ASP.NET Web API
-- MySQL
-- Chart.js
+<tr>
 
-Real-time inventory analytics, forecasting dashboard, stock monitoring.
+<td width="50%">
 
----
+## 📦 Smart Inventory & Demand Forecasting
 
-## 🛒 Multi-Vendor E-Commerce Website
+✔ Real-Time Dashboard
 
-- React
-- Node.js
-- HTML
-- CSS
-- JavaScript
+✔ Demand Forecasting
 
-Role-based Admin, Vendor and Customer dashboards.
+✔ Inventory Analytics
 
----
+✔ Stock Management
+
+<br>
+
+**Tech Stack**
+
+React
+
+C#
+
+ASP.NET Web API
+
+MySQL
+
+Chart.js
+
+<br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View_Code-FF69B4?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🛒 Multi Vendor E-Commerce
+
+✔ Authentication
+
+✔ Shopping Cart
+
+✔ Admin Dashboard
+
+✔ Order Tracking
+
+<br>
+
+**Tech Stack**
+
+React
+
+Node.js
+
+JavaScript
+
+HTML
+
+CSS
+
+<br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/View_Code-FF69B4?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 # 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,c,python,javascript,html,css,react,nodejs,dotnet,mysql,git,github,vscode,visualstudio&perline=8"/>
+# 💻 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,c,python,javascript"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🎨 Frontend Development
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=umangtiwari7488-design&show_icons=true&theme=transparent&title_color=FF69B4"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=umangtiwari7488-design&theme=transparent&ring=FF69B4&fire=FF69B4"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umangtiwari7488-design&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true"/>
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet"/>
 </p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System_Design-FF69B4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-5C2D91?style=for-the-badge"/>
+
+</p>
+
+</div>
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umangtiwari7488-design&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=C9D1D9"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=umangtiwari7488-design&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=EF93C4&dates=F8BBD0"/>
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangtiwari7488-design&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umangtiwari7488-design&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umangtiwari7488-design&theme=github_dark"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umangtiwari7488-design&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umangtiwari7488-design&theme=github_dark"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umangtiwari7488-design&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umangtiwari7488-design&theme=github_dark&utcOffset=5.5"/>
+
+</div>
 
 
 ---
