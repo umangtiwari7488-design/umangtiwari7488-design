@@ -147,15 +147,15 @@ I'm always interested in collaborating on Java, Full Stack, or open-source proje
 
 ---
 
+
 # 🐍 Contribution Snake
 
-Create `.github/workflows/snake.yml` using Platane/snk and use:
+> Enable the GitHub Action to generate the snake animation.
 
-```md
-<img src="https://raw.githubusercontent.com/umangtiwari7488-design/umangtiwari7488-design/output/github-contribution-grid-snake.svg"/>
-```
-
----
+<p align="center">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/umangtiwari7488-design/umangtiwari7488-design/output/github-contribution-grid-snake.svg">
+</p>
 
 # 🌐 Connect
 
