@@ -209,6 +209,8 @@ CSS
 </p>
 
 </div>
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -257,15 +259,32 @@ CSS
 
 
 ---
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=umangtiwari7488-design&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+
+</div>
+---
 
 # 🧠 Core Competencies
 
-- ☕ Java Development
-- 🏗 Object-Oriented Programming (OOP)
-- 📚 Data Structures & Algorithms
-- 🌐 Full Stack Development
-- 🗄️ DBMS & MySQL
-- 🤝 Teamwork & Communication
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge)
+
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-EF93C4?style=for-the-badge)
+
+![Full Stack](https://img.shields.io/badge/Full_Stack-FF69B4?style=for-the-badge)
+
+![OOP](https://img.shields.io/badge/OOP-F8BBD0?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge)
+
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-EF93C4?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -327,22 +346,46 @@ I'm always interested in collaborating on Java, Full Stack, or open-source proje
 
 # 🌐 Connect
 
-<p align="center">
+<div align="center">
 
-[GitHub](https://github.com/umangtiwari7488-design) •
-[LinkedIn](https://www.linkedin.com/in/umang-raj-756853301/) •
-[Portfolio](https://umangtiwari7488-design.github.io/umang_portfolio/) •
-[LeetCode](https://leetcode.com/u/Umangraj_cs23/) •
-<a href="mailto:umang.raj_cs23@gla.ac.in">Email</a>
+<a href="https://github.com/umangtiwari7488-design">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</p>
+<a href="https://www.linkedin.com/in/umang-raj-756853301/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://leetcode.com/u/Umangraj_cs23/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://umangtiwari7488-design.github.io/umang_portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:umang.raj_cs23@gla.ac.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 <p align="center">
 
-### ⭐ *Code • Learn • Build • Repeat*
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+> *"First, solve the problem. Then, write the code."*  
+> — **John Johnson**
+
+🚀 **Happy Coding!**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FF69B4,40:EF93C4,70:F8BBD0,100:FFC0CB"/>
 
-</p>
+</div>
